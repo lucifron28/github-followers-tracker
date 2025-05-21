@@ -2,19 +2,24 @@ import os
 from github_api import GitHubAPI
 from followers_manager import FollowersManager
 from utils import write_log
-from dotenv import load_dotenv
 
 def load_env_variables():
-    from dotenv import load_dotenv
-    load_dotenv()
+    """Load environment variables from .env file if present (for local development)"""
+    try:
+        from dotenv import load_dotenv
+        if os.path.exists('.env'):
+            load_dotenv()
+    except ImportError:
+        pass
 
 def main():
     load_env_variables()
     
-    token = os.getenv('GITHUB_TOKEN')
-    if not token:
-        raise ValueError("GitHub token not found. Please set it in the .env file.")
+    token = os.environ.get('PERSONAL_ACCESS_TOKEN') or os.environ.get('GITHUB_TOKEN')
     
+    if not token:
+        raise ValueError("GitHub token not found. Please set it as PERSONAL_ACCESS_TOKEN or GITHUB_TOKEN in environment variables.")
+
     github_api = GitHubAPI(token)
     followers_manager = FollowersManager()
 
