@@ -28,14 +28,13 @@ def format_follower_change(username, action):
 def write_log(added, removed):
     """Write follower changes to the log file."""
     from followers_manager import LOG_FILE
-    
     with open(LOG_FILE, 'a') as log_file:
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         if added:
             log_file.write(f"\n## New followers - {timestamp}\n")
             for username in added:
-                log_file.write(f"- {username}\n")
+                log_file.write(format_follower_change(username, "Followed") + "\n")
         if removed:
             log_file.write(f"\n## Unfollowed - {timestamp}\n")
             for username in removed:
-                log_file.write(f"- {username}\n")
+                log_file.write(format_follower_change(username, "Unfollowed") + "\n")

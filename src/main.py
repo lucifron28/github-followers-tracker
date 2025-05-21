@@ -1,7 +1,8 @@
 import os
+from datetime import datetime
 from github_api import GitHubAPI
 from followers_manager import FollowersManager
-from utils import write_log
+from utils import write_log, append_to_markdown_log
 
 def load_env_variables():
     """Load environment variables from .env file if present (for local development)"""
@@ -30,6 +31,9 @@ def main():
 
     followers_manager.save_followers(current_followers)
     write_log(added, removed)
+
+    summary = f"Summary: {len(added)} new, {len(removed)} unfollowed at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+    append_to_markdown_log('logs/followers_log.md', summary)
     
     print(f"Tracked followers: {len(current_followers)} total, {len(added)} new, {len(removed)} unfollowed")
 
