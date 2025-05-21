@@ -13,9 +13,18 @@ on:
 jobs:
   track-followers:
     runs-on: ubuntu-latest
+    # Add permissions to the GITHUB_TOKEN
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          # This is important for being able to push changes
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          # Fetch all history so git push works
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -29,7 +38,7 @@ jobs:
 
       - name: Run follower tracking script
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           GITHUB_USERNAME: lucifron28
           LOG_FILE_PATH: logs/followers_log.md
           FOLLOWERS_DATA_PATH: data/followers.json
@@ -38,11 +47,17 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "lucifron28@gmail.com"
-          git config --local user.name "Ron"
+          # Ensure directories exist
+          mkdir -p logs data
+          
+          # Configure git identity
+          git config --global user.email "lucifron28@gmail.com"
+          git config --global user.name "Ron"
+          
+          # Clean up pycache files
+          git clean -fd src/__pycache__
+          
+          # Add, commit and push
           git add logs/followers_log.md data/followers.json
-          git commit -m "Update followers log" || echo "No changes to commit"
+          git diff --staged --quiet || git commit -m "Update followers log"
           git push
-        env:
-          # Using PERSONAL_ACCESS_TOKEN for commit permissions as well
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
