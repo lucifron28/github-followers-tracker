@@ -46,6 +46,8 @@ jobs:
           python src/main.py
 
       - name: Commit and push changes
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           # Ensure directories exist
           mkdir -p logs data
