@@ -53,11 +53,14 @@ jobs:
           # Configure git identity
           git config --global user.email "lucifron28@gmail.com"
           git config --global user.name "Ron"
-          
-          # Clean up pycache files
+
+          mkdir -p logs data
           git clean -fd src/__pycache__
-          
-          # Add, commit and push
+
           git add logs/followers_log.md data/followers.json
           git diff --staged --quiet || git commit -m "Update followers log"
-          git push
+
+          # Use the token to set a new authenticated remote
+          git remote set-url origin https://x-access-token:${PERSONAL_ACCESS_TOKEN}@github.com/lucifron28/github-followers-tracker.git
+
+          git push origin main
