@@ -8,7 +8,7 @@ on:
       - 'src/**'
       - '.github/workflows/track-followers.yml'
   schedule:
-    - cron: '0 * * * *' # Every hour
+    - cron: '*/5 * * * *' # Every hour
 
 jobs:
   track-followers:
