@@ -7,6 +7,8 @@ on:
     paths:
       - 'src/**'
       - '.github/workflows/track-followers.yml'
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight
 
 jobs:
   track-followers:
@@ -27,7 +29,10 @@ jobs:
 
       - name: Run follower tracking script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_USERNAME: lucifron28
+          LOG_FILE_PATH: logs/followers_log.md
+          FOLLOWERS_DATA_PATH: data/followers.json
         run: |
           python src/main.py
 
@@ -36,7 +41,8 @@ jobs:
           git config --local user.email "lucifron28@gmail.com"
           git config --local user.name "Ron"
           git add logs/followers_log.md data/followers.json
-          git commit -m "Update followers log"
+          git commit -m "Update followers log" || echo "No changes to commit"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Using PERSONAL_ACCESS_TOKEN for commit permissions as well
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
