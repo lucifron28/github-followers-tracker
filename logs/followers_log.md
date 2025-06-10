@@ -1133,3 +1133,10 @@ Summary: 0 new, 0 unfollowed at 2025-06-08 17:17:20
 Summary: 0 new, 0 unfollowed at 2025-06-09 09:24:43
 Summary: 0 new, 0 unfollowed at 2025-06-09 17:18:50
 Summary: 0 new, 0 unfollowed at 2025-06-10 09:24:07
+
+## New followers - 2025-06-10 17:19:01
+- Followed: manman4 on 2025-06-10 17:19:01
+
+## Unfollowed - 2025-06-10 17:19:01
+- Unfollowed: karianne50m on 2025-06-10 17:19:01
+Summary: 1 new, 1 unfollowed at 2025-06-10 17:19:01
