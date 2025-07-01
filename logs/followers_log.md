@@ -1198,3 +1198,10 @@ Summary: 0 new, 0 unfollowed at 2025-06-29 09:21:22
 Summary: 0 new, 0 unfollowed at 2025-06-29 17:18:01
 Summary: 0 new, 0 unfollowed at 2025-06-30 09:26:21
 Summary: 0 new, 0 unfollowed at 2025-06-30 17:18:50
+
+## New followers - 2025-07-01 09:26:15
+- Followed: daley-mottley on 2025-07-01 09:26:15
+
+## Unfollowed - 2025-07-01 09:26:15
+- Unfollowed: minion4code on 2025-07-01 09:26:15
+Summary: 1 new, 1 unfollowed at 2025-07-01 09:26:15
