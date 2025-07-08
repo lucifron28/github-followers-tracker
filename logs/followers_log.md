@@ -1219,3 +1219,10 @@ Summary: 0 new, 0 unfollowed at 2025-07-06 17:18:32
 Summary: 0 new, 0 unfollowed at 2025-07-07 09:26:26
 Summary: 0 new, 0 unfollowed at 2025-07-07 17:19:38
 Summary: 0 new, 0 unfollowed at 2025-07-08 09:25:29
+
+## New followers - 2025-07-08 17:19:56
+- Followed: holasoymalva on 2025-07-08 17:19:56
+
+## Unfollowed - 2025-07-08 17:19:56
+- Unfollowed: daley-mottley on 2025-07-08 17:19:56
+Summary: 1 new, 1 unfollowed at 2025-07-08 17:19:56
