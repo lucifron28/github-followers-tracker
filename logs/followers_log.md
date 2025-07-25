@@ -1265,3 +1265,10 @@ Summary: 0 new, 0 unfollowed at 2025-07-23 17:23:43
 Summary: 0 new, 0 unfollowed at 2025-07-24 09:28:10
 Summary: 0 new, 0 unfollowed at 2025-07-24 17:21:40
 Summary: 0 new, 0 unfollowed at 2025-07-25 09:27:22
+
+## New followers - 2025-07-25 17:22:09
+- Followed: daley-mottley on 2025-07-25 17:22:09
+
+## Unfollowed - 2025-07-25 17:22:09
+- Unfollowed: holasoymalva on 2025-07-25 17:22:09
+Summary: 1 new, 1 unfollowed at 2025-07-25 17:22:09
