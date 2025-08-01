@@ -1290,3 +1290,10 @@ Summary: 0 new, 0 unfollowed at 2025-07-30 17:23:17
 - Unfollowed: daley-mottley on 2025-07-31 09:29:25
 Summary: 1 new, 1 unfollowed at 2025-07-31 09:29:25
 Summary: 0 new, 0 unfollowed at 2025-07-31 17:22:44
+
+## New followers - 2025-08-01 09:29:29
+- Followed: daley-mottley on 2025-08-01 09:29:29
+
+## Unfollowed - 2025-08-01 09:29:29
+- Unfollowed: seehiong on 2025-08-01 09:29:29
+Summary: 1 new, 1 unfollowed at 2025-08-01 09:29:29
