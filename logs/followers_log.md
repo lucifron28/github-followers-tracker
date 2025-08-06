@@ -1307,3 +1307,12 @@ Summary: 0 new, 0 unfollowed at 2025-08-04 17:26:00
 Summary: 0 new, 0 unfollowed at 2025-08-05 09:30:12
 Summary: 0 new, 0 unfollowed at 2025-08-05 17:22:06
 Summary: 0 new, 0 unfollowed at 2025-08-06 09:30:59
+
+## New followers - 2025-08-06 17:24:33
+- Followed: seehiong on 2025-08-06 17:24:33
+- Followed: connor-penrod on 2025-08-06 17:24:33
+
+## Unfollowed - 2025-08-06 17:24:33
+- Unfollowed: daley-mottley on 2025-08-06 17:24:33
+- Unfollowed: karianne50m on 2025-08-06 17:24:33
+Summary: 2 new, 2 unfollowed at 2025-08-06 17:24:33
