@@ -1317,3 +1317,10 @@ Summary: 0 new, 0 unfollowed at 2025-08-06 09:30:59
 - Unfollowed: karianne50m on 2025-08-06 17:24:33
 Summary: 2 new, 2 unfollowed at 2025-08-06 17:24:33
 Summary: 0 new, 0 unfollowed at 2025-08-07 09:29:24
+
+## New followers - 2025-08-07 17:23:57
+- Followed: karianne50m on 2025-08-07 17:23:57
+
+## Unfollowed - 2025-08-07 17:23:57
+- Unfollowed: seehiong on 2025-08-07 17:23:57
+Summary: 1 new, 1 unfollowed at 2025-08-07 17:23:57
