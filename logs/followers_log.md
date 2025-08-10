@@ -1334,3 +1334,10 @@ Summary: 1 new, 1 unfollowed at 2025-08-08 09:29:59
 Summary: 0 new, 0 unfollowed at 2025-08-08 17:18:16
 Summary: 0 new, 0 unfollowed at 2025-08-09 09:22:36
 Summary: 0 new, 0 unfollowed at 2025-08-09 17:18:49
+
+## New followers - 2025-08-10 09:22:58
+- Followed: holasoymalva on 2025-08-10 09:22:58
+
+## Unfollowed - 2025-08-10 09:22:58
+- Unfollowed: karianne50m on 2025-08-10 09:22:58
+Summary: 1 new, 1 unfollowed at 2025-08-10 09:22:58
