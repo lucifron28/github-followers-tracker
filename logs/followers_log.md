@@ -1452,3 +1452,10 @@ Summary: 0 new, 0 unfollowed at 2025-09-08 09:25:07
 Summary: 0 new, 0 unfollowed at 2025-09-08 17:18:24
 Summary: 0 new, 0 unfollowed at 2025-09-09 09:23:04
 Summary: 0 new, 0 unfollowed at 2025-09-09 17:17:46
+
+## New followers - 2025-09-10 09:21:29
+- Followed: slavaGanzin on 2025-09-10 09:21:29
+
+## Unfollowed - 2025-09-10 09:21:29
+- Unfollowed: ammarsalahi on 2025-09-10 09:21:29
+Summary: 1 new, 1 unfollowed at 2025-09-10 09:21:29
