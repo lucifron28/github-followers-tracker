@@ -1470,3 +1470,12 @@ Summary: 0 new, 0 unfollowed at 2025-09-11 09:21:09
 Summary: 0 new, 0 unfollowed at 2025-09-11 17:17:30
 Summary: 0 new, 0 unfollowed at 2025-09-12 09:20:25
 Summary: 0 new, 0 unfollowed at 2025-09-12 17:17:04
+
+## New followers - 2025-09-13 09:18:02
+- Followed: mccaffers on 2025-09-13 09:18:02
+- Followed: dbunt1tled on 2025-09-13 09:18:02
+
+## Unfollowed - 2025-09-13 09:18:02
+- Unfollowed: djvelimir on 2025-09-13 09:18:02
+- Unfollowed: guevaraStian on 2025-09-13 09:18:02
+Summary: 2 new, 2 unfollowed at 2025-09-13 09:18:02
