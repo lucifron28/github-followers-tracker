@@ -1486,3 +1486,12 @@ Summary: 2 new, 2 unfollowed at 2025-09-13 09:18:02
 ## Unfollowed - 2025-09-13 17:14:28
 - Unfollowed: dbunt1tled on 2025-09-13 17:14:28
 Summary: 1 new, 1 unfollowed at 2025-09-13 17:14:28
+
+## New followers - 2025-09-14 09:18:10
+- Followed: dbunt1tled on 2025-09-14 09:18:10
+- Followed: unhappychoice on 2025-09-14 09:18:10
+
+## Unfollowed - 2025-09-14 09:18:10
+- Unfollowed: leo-smi on 2025-09-14 09:18:10
+- Unfollowed: djvelimir on 2025-09-14 09:18:10
+Summary: 2 new, 2 unfollowed at 2025-09-14 09:18:10
