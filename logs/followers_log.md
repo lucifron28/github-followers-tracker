@@ -1602,3 +1602,10 @@ Summary: 0 new, 0 unfollowed at 2025-10-18 09:19:23
 Summary: 0 new, 0 unfollowed at 2025-10-18 17:16:06
 Summary: 0 new, 0 unfollowed at 2025-10-19 09:18:57
 Summary: 0 new, 0 unfollowed at 2025-10-19 17:16:40
+
+## New followers - 2025-10-20 09:25:24
+- Followed: paaak on 2025-10-20 09:25:24
+
+## Unfollowed - 2025-10-20 09:25:24
+- Unfollowed: IDouble on 2025-10-20 09:25:24
+Summary: 1 new, 1 unfollowed at 2025-10-20 09:25:24
