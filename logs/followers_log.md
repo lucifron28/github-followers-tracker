@@ -1634,3 +1634,10 @@ Summary: 0 new, 0 unfollowed at 2025-10-27 09:26:52
 Summary: 0 new, 0 unfollowed at 2025-10-27 17:19:16
 Summary: 0 new, 0 unfollowed at 2025-10-28 09:23:53
 Summary: 0 new, 0 unfollowed at 2025-10-28 17:20:13
+
+## New followers - 2025-10-29 09:23:08
+- Followed: zhusonglai on 2025-10-29 09:23:08
+
+## Unfollowed - 2025-10-29 09:23:08
+- Unfollowed: ninza-innovates on 2025-10-29 09:23:08
+Summary: 1 new, 1 unfollowed at 2025-10-29 09:23:08
