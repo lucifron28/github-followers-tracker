@@ -1668,3 +1668,10 @@ Summary: 0 new, 0 unfollowed at 2025-11-04 09:25:46
 Summary: 0 new, 0 unfollowed at 2025-11-04 17:17:33
 Summary: 0 new, 0 unfollowed at 2025-11-05 09:25:04
 Summary: 0 new, 0 unfollowed at 2025-11-05 17:21:06
+
+## New followers - 2025-11-06 09:24:10
+- Followed: SuperAdam47 on 2025-11-06 09:24:10
+
+## Unfollowed - 2025-11-06 09:24:10
+- Unfollowed: alexandrutanasie on 2025-11-06 09:24:10
+Summary: 1 new, 1 unfollowed at 2025-11-06 09:24:10
