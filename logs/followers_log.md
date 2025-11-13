@@ -1694,3 +1694,10 @@ Summary: 1 new, 1 unfollowed at 2025-11-11 09:25:22
 Summary: 0 new, 0 unfollowed at 2025-11-11 17:19:44
 Summary: 0 new, 0 unfollowed at 2025-11-12 09:25:15
 Summary: 0 new, 0 unfollowed at 2025-11-12 17:21:27
+
+## New followers - 2025-11-13 09:25:23
+- Followed: ninza-innovates on 2025-11-13 09:25:23
+
+## Unfollowed - 2025-11-13 09:25:23
+- Unfollowed: onamfc on 2025-11-13 09:25:23
+Summary: 1 new, 1 unfollowed at 2025-11-13 09:25:23
