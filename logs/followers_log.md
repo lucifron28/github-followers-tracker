@@ -1742,3 +1742,10 @@ Summary: 0 new, 0 unfollowed at 2025-11-21 09:23:57
 ## Unfollowed - 2025-11-21 17:19:25
 - Unfollowed: XiaomingX on 2025-11-21 17:19:25
 Summary: 1 new, 1 unfollowed at 2025-11-21 17:19:25
+
+## New followers - 2025-11-22 09:20:55
+- Followed: CelaDaniel on 2025-11-22 09:20:55
+
+## Unfollowed - 2025-11-22 09:20:55
+- Unfollowed: IDouble on 2025-11-22 09:20:55
+Summary: 1 new, 1 unfollowed at 2025-11-22 09:20:55
