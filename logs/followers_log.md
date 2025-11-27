@@ -1759,3 +1759,10 @@ Summary: 0 new, 0 unfollowed at 2025-11-25 17:21:56
 Summary: 0 new, 0 unfollowed at 2025-11-26 09:26:37
 Summary: 0 new, 0 unfollowed at 2025-11-26 17:20:31
 Summary: 0 new, 0 unfollowed at 2025-11-27 09:25:54
+
+## New followers - 2025-11-27 17:18:54
+- Followed: IDouble on 2025-11-27 17:18:54
+
+## Unfollowed - 2025-11-27 17:18:54
+- Unfollowed: CelaDaniel on 2025-11-27 17:18:54
+Summary: 1 new, 1 unfollowed at 2025-11-27 17:18:54
