@@ -1837,3 +1837,10 @@ Summary: 0 new, 0 unfollowed at 2025-12-22 17:21:02
 Summary: 0 new, 0 unfollowed at 2025-12-23 09:28:16
 Summary: 0 new, 0 unfollowed at 2025-12-23 17:22:46
 Summary: 0 new, 0 unfollowed at 2025-12-24 09:27:22
+
+## New followers - 2025-12-24 17:19:49
+- Followed: IDouble on 2025-12-24 17:19:49
+
+## Unfollowed - 2025-12-24 17:19:49
+- Unfollowed: pongpong-zigzag on 2025-12-24 17:19:49
+Summary: 1 new, 1 unfollowed at 2025-12-24 17:19:49
