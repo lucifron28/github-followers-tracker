@@ -1877,3 +1877,10 @@ Summary: 0 new, 0 unfollowed at 2026-01-08 17:29:00
 Summary: 0 new, 0 unfollowed at 2026-01-09 09:31:04
 Summary: 0 new, 0 unfollowed at 2026-01-09 17:25:09
 Summary: 0 new, 0 unfollowed at 2026-01-10 09:23:34
+
+## New followers - 2026-01-10 17:20:09
+- Followed: diorwave on 2026-01-10 17:20:09
+
+## Unfollowed - 2026-01-10 17:20:09
+- Unfollowed: IDouble on 2026-01-10 17:20:09
+Summary: 1 new, 1 unfollowed at 2026-01-10 17:20:09
