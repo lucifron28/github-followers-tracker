@@ -1895,3 +1895,10 @@ Summary: 0 new, 0 unfollowed at 2026-01-11 17:19:56
 Summary: 0 new, 0 unfollowed at 2026-01-12 09:35:34
 Summary: 0 new, 0 unfollowed at 2026-01-12 17:25:53
 Summary: 0 new, 0 unfollowed at 2026-01-13 09:31:18
+
+## New followers - 2026-01-13 17:28:34
+- Followed: OOLin on 2026-01-13 17:28:34
+
+## Unfollowed - 2026-01-13 17:28:34
+- Unfollowed: alexandrutanasie on 2026-01-13 17:28:34
+Summary: 1 new, 1 unfollowed at 2026-01-13 17:28:34
