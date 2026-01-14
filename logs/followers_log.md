@@ -1903,3 +1903,10 @@ Summary: 0 new, 0 unfollowed at 2026-01-13 09:31:18
 - Unfollowed: alexandrutanasie on 2026-01-13 17:28:34
 Summary: 1 new, 1 unfollowed at 2026-01-13 17:28:34
 Summary: 0 new, 0 unfollowed at 2026-01-14 09:31:49
+
+## New followers - 2026-01-14 17:29:24
+- Followed: JohnsonWeb3 on 2026-01-14 17:29:24
+
+## Unfollowed - 2026-01-14 17:29:24
+- Unfollowed: ninza-innovates on 2026-01-14 17:29:24
+Summary: 1 new, 1 unfollowed at 2026-01-14 17:29:24
