@@ -1921,3 +1921,10 @@ Summary: 0 new, 0 unfollowed at 2026-01-15 09:31:12
 - Unfollowed: JohnsonWeb3 on 2026-01-15 17:34:51
 Summary: 2 new, 2 unfollowed at 2026-01-15 17:34:51
 Summary: 0 new, 0 unfollowed at 2026-01-16 09:30:06
+
+## New followers - 2026-01-16 17:26:34
+- Followed: mccaffers on 2026-01-16 17:26:34
+
+## Unfollowed - 2026-01-16 17:26:34
+- Unfollowed: OOLin on 2026-01-16 17:26:34
+Summary: 1 new, 1 unfollowed at 2026-01-16 17:26:34
