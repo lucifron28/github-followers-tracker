@@ -1948,3 +1948,10 @@ Summary: 1 new, 1 unfollowed at 2026-01-18 09:24:19
 Summary: 0 new, 0 unfollowed at 2026-01-18 17:20:21
 Summary: 0 new, 0 unfollowed at 2026-01-19 09:37:37
 Summary: 0 new, 0 unfollowed at 2026-01-19 17:25:57
+
+## New followers - 2026-01-20 09:35:46
+- Followed: ninza-innovates on 2026-01-20 09:35:46
+
+## Unfollowed - 2026-01-20 09:35:46
+- Unfollowed: xryutaro on 2026-01-20 09:35:46
+Summary: 1 new, 1 unfollowed at 2026-01-20 09:35:46
