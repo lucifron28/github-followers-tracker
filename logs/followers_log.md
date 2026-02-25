@@ -2038,3 +2038,10 @@ Summary: 0 new, 0 unfollowed at 2026-02-23 09:57:55
 Summary: 0 new, 0 unfollowed at 2026-02-23 18:01:40
 Summary: 0 new, 0 unfollowed at 2026-02-24 09:55:26
 Summary: 0 new, 0 unfollowed at 2026-02-24 17:56:34
+
+## New followers - 2026-02-25 09:57:36
+- Followed: smart-kyubi on 2026-02-25 09:57:36
+
+## Unfollowed - 2026-02-25 09:57:36
+- Unfollowed: KyubinoKitsune-ace on 2026-02-25 09:57:36
+Summary: 1 new, 1 unfollowed at 2026-02-25 09:57:36
