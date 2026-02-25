@@ -2045,3 +2045,10 @@ Summary: 0 new, 0 unfollowed at 2026-02-24 17:56:34
 ## Unfollowed - 2026-02-25 09:57:36
 - Unfollowed: KyubinoKitsune-ace on 2026-02-25 09:57:36
 Summary: 1 new, 1 unfollowed at 2026-02-25 09:57:36
+
+## New followers - 2026-02-25 17:59:37
+- Followed: kyubinokitsune-ace on 2026-02-25 17:59:37
+
+## Unfollowed - 2026-02-25 17:59:37
+- Unfollowed: smart-kyubi on 2026-02-25 17:59:37
+Summary: 1 new, 1 unfollowed at 2026-02-25 17:59:37
