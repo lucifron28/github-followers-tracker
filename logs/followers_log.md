@@ -2275,3 +2275,10 @@ Summary: 0 new, 0 unfollowed at 2026-05-16 17:56:41
 Summary: 0 new, 0 unfollowed at 2026-05-17 10:23:37
 Summary: 0 new, 0 unfollowed at 2026-05-17 17:59:19
 Summary: 0 new, 0 unfollowed at 2026-05-18 12:34:06
+
+## New followers - 2026-05-18 18:53:15
+- Followed: CelaDaniel on 2026-05-18 18:53:15
+
+## Unfollowed - 2026-05-18 18:53:15
+- Unfollowed: alexandrutanasie on 2026-05-18 18:53:15
+Summary: 1 new, 1 unfollowed at 2026-05-18 18:53:15
