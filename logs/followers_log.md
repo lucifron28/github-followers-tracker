@@ -2308,3 +2308,10 @@ Summary: 0 new, 0 unfollowed at 2026-05-24 10:42:34
 Summary: 0 new, 0 unfollowed at 2026-05-24 17:59:06
 Summary: 0 new, 0 unfollowed at 2026-05-25 12:33:39
 Summary: 0 new, 0 unfollowed at 2026-05-25 18:25:43
+
+## New followers - 2026-05-26 19:20:58
+- Followed: flaviopavim on 2026-05-26 19:20:58
+
+## Unfollowed - 2026-05-26 19:20:58
+- Unfollowed: DanielArturoAlejoAlvarez on 2026-05-26 19:20:58
+Summary: 1 new, 1 unfollowed at 2026-05-26 19:20:58
