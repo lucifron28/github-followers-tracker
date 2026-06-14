@@ -2356,3 +2356,12 @@ Summary: 0 new, 0 unfollowed at 2026-06-12 12:20:47
 Summary: 0 new, 0 unfollowed at 2026-06-12 19:07:01
 Summary: 0 new, 0 unfollowed at 2026-06-13 11:15:53
 Summary: 0 new, 0 unfollowed at 2026-06-13 18:09:00
+
+## New followers - 2026-06-14 11:31:50
+- Followed: jokeyhter on 2026-06-14 11:31:50
+- Followed: lokiwyler on 2026-06-14 11:31:50
+
+## Unfollowed - 2026-06-14 11:31:50
+- Unfollowed: mccaffers on 2026-06-14 11:31:50
+- Unfollowed: ninza-innovates on 2026-06-14 11:31:50
+Summary: 2 new, 2 unfollowed at 2026-06-14 11:31:50
