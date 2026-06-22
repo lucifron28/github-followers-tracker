@@ -2394,3 +2394,12 @@ Summary: 0 new, 0 unfollowed at 2026-06-20 11:19:58
 Summary: 1 new, 1 unfollowed at 2026-06-20 18:13:49
 Summary: 0 new, 0 unfollowed at 2026-06-21 11:46:28
 Summary: 0 new, 0 unfollowed at 2026-06-21 18:19:34
+
+## New followers - 2026-06-22 14:42:21
+- Followed: lokiwyler on 2026-06-22 14:42:21
+- Followed: jokeyhter on 2026-06-22 14:42:21
+
+## Unfollowed - 2026-06-22 14:42:21
+- Unfollowed: dbunt1tled on 2026-06-22 14:42:21
+- Unfollowed: mccaffers on 2026-06-22 14:42:21
+Summary: 2 new, 2 unfollowed at 2026-06-22 14:42:21
