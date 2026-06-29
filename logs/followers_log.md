@@ -2424,3 +2424,10 @@ Summary: 0 new, 0 unfollowed at 2026-06-27 10:58:21
 Summary: 0 new, 0 unfollowed at 2026-06-27 18:05:50
 Summary: 0 new, 0 unfollowed at 2026-06-28 11:09:16
 Summary: 0 new, 0 unfollowed at 2026-06-28 18:06:26
+
+## New followers - 2026-06-29 13:08:21
+- Followed: NoahHarringT on 2026-06-29 13:08:21
+
+## Unfollowed - 2026-06-29 13:08:21
+- Unfollowed: mccaffers on 2026-06-29 13:08:21
+Summary: 1 new, 1 unfollowed at 2026-06-29 13:08:21
