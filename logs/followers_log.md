@@ -2449,3 +2449,10 @@ Summary: 0 new, 0 unfollowed at 2026-07-06 18:56:39
 Summary: 0 new, 0 unfollowed at 2026-07-07 11:52:16
 Summary: 0 new, 0 unfollowed at 2026-07-07 19:03:33
 Summary: 0 new, 0 unfollowed at 2026-07-08 11:07:00
+
+## New followers - 2026-07-08 18:19:27
+- Followed: mccaffers on 2026-07-08 18:19:27
+
+## Unfollowed - 2026-07-08 18:19:27
+- Unfollowed: NoahHarringT on 2026-07-08 18:19:27
+Summary: 1 new, 1 unfollowed at 2026-07-08 18:19:27
