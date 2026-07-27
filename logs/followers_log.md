@@ -2498,3 +2498,10 @@ Summary: 0 new, 0 unfollowed at 2026-07-25 10:35:16
 Summary: 0 new, 0 unfollowed at 2026-07-25 17:58:49
 Summary: 0 new, 0 unfollowed at 2026-07-26 10:45:21
 Summary: 0 new, 0 unfollowed at 2026-07-26 18:02:00
+
+## New followers - 2026-07-27 12:25:44
+- Followed: lyren-ashcroft on 2026-07-27 12:25:44
+
+## Unfollowed - 2026-07-27 12:25:44
+- Unfollowed: ninza-innovates on 2026-07-27 12:25:44
+Summary: 1 new, 1 unfollowed at 2026-07-27 12:25:44
